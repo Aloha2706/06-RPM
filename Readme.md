@@ -115,7 +115,7 @@ sudo cp  rpmbuild/RPMS/x86_64/nginx-1.14.1-1.el7_4.ngx.x86_64.rpm /usr/share/ngi
         --> Processing Dependency: oniguruma for package: 2:percona-orchestrator-3.2.6-2.el8.x86_64
         --> Processing Dependency: libc.so.6(GLIBC_2.28)(64bit) for package: 2:percona-orchestrator-3.2.6-2.el8.x86_64
 
-Совственно работу собственного репозитария подтвердили. 
+Совственно работу собственного репозитария подтвердили:
 
 
 
