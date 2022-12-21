@@ -29,6 +29,7 @@ https://rpm-packaging-guide.github.io/
         rpm -i nginx-1.14.1-1.el7_4.ngx.src.rpm
 
 Загрузим и распакуем исходники для openssl
+
         wget https://github.com/openssl/openssl/archive/refs/heads/OpenSSL_1_1_1-stable.zip
         unzip  OpenSSL_1_1_1-stable.zip
 
@@ -43,7 +44,7 @@ https://rpm-packaging-guide.github.io/
 
         --with-openssl=/home/vagrant/openssl-OpenSSL_1_1_1-stable
 
-ну и собственно билдим
+собираем:
 
         rpmbuild -bb rpmbuild/SPECS/nginx.spec
 
