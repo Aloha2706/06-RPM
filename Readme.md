@@ -117,3 +117,5 @@ sudo cp  rpmbuild/RPMS/x86_64/nginx-1.14.1-1.el7_4.ngx.x86_64.rpm /usr/share/ngi
 
 Совственно работу собственного репозитария подтвердили. 
 
+
+
