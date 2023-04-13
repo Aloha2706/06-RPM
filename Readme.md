@@ -1,4 +1,5 @@
-# 06-NFS
+# 06-RPM
+
 
 Полезные ссылки
 https://rpm-software-management.github.io/mock/
